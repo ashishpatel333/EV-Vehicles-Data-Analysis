@@ -1,4 +1,4 @@
-# EV-Vehicles-Data-Analysis
+# Electric Vehicles-Data-Analysis
 Data Analysis project
 PROBLEM STATEMENT
 
